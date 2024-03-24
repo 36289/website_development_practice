@@ -1,0 +1,32 @@
+.title {
+  font-size: 38px;
+  text-align: center;
+  border-radius: 15px;
+  background-color: blueviolet;
+}
+.couple {
+  padding-left: 0;
+  color: purple;
+  background-color: bisque;
+  font-size: 22px;
+  margin-bottom: 10px;
+  margin-right: 55%;
+}
+.newsort {
+  color: brown;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.more-info {
+  font-weight: bold;
+}
+.more-info:link,
+.more-info:visited {
+  color: black;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+.more-info:hover,
+.more-info:active {
+  text-decoration: none;
+}
